@@ -8,7 +8,7 @@ import time
 import os
 
 
-webhook_url = 'https://discord.com/api/webhooks/x/x'
+webhook_url = 'YOUR_DISCORD_WEBHOOK_URL_HERE'
 
 
 
